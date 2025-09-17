@@ -1,1 +1,114 @@
 
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: pink;
+}
+.mainbody{
+    columns: 4;
+    background-color: rgb(186, 6, 36);
+    padding: 20px;
+}
+.mainbody h2{
+ color: yellow;
+}
+
+.firstsec{
+    text-align: center;
+    columns: 3;
+}
+.firstsec p{
+    text-align: center;
+    color: rgb(186, 6, 36);
+    font-size: 30px;
+}
+.firstsec h2{
+    text-align: center;
+    font-size: 40px;
+}
+.firstsec a{
+    color: pink;
+}
+.firstsec img{
+  width: 70%;
+  border-radius: 20px;
+  border: solid 30px pink;
+}
+.likelist img{
+    width: 89%;
+    border-radius: 30px;
+}
+.lol{
+    display: flex;
+    color: rgb(204, 32, 72);
+    font-size: 50px;
+    border: 5px solid pink;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.secondsec h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  font-size: 30px;
+  color: beige;
+}
+.secondsec p{
+    text-align: center;
+}
+.secondsec p em{
+    color: rgb(255, 88, 158);
+}
+.secondsec li {
+    color: rgb(255, 255, 255);
+}
+.secondsec p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.thirdsec h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  font-size: 30px;
+  color: beige;
+}
+.thirdsec p{
+    text-align: center;
+}
+.thirdsec p em{
+    color: rgb(255, 88, 158);
+}
+.thirdsec li {
+    color: rgb(255, 255, 255);
+}
+.thirdsec p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+.hatelist img{
+    width: 89%;
+    border-radius: 30px;
+}
+.thirdsec p strong{
+    color: rgb(225, 34, 178);
+} 
+.personality{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fourthsec h2{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px; 
+}
+.fileupload{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
